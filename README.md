@@ -1,9 +1,9 @@
-# 💫About Me :
-Hi there, I'm Fernando!
+# 💫About Me
+Hi there, I'm Fernando! 
 
-Born and raised in Mexico and really really into coding for the rest of my life as a software engineer. 👨🏻‍💻
+I am a future full stack web developer. 👨🏻‍💻
 
-I love video games, anime, reading, singing and listening to lofi while I'm travelling, walking, watching the rain or when I'm coding. ^^
+Currently based in Mexico City, open to job opportunities and collaborations!
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/fernando.mojica.758737/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fermop_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/fernando-pérez) 

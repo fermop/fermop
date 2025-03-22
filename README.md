@@ -22,6 +22,6 @@ Currently based in Mexico City, open to job opportunities and collaborations!
 # Currently Learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,vue,sequelize,tailwind" />
   </a>
 </p>

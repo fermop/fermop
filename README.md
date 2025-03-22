@@ -15,7 +15,7 @@ Currently based in Mexico City, open to job opportunities and collaborations!
 # Tools I Use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=notion,vscode" />
   </a>
 </p>
 

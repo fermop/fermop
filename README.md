@@ -1,7 +1,7 @@
 # 💫About Me
 Hi there, I'm Fernando! 
 
-Future full stack web developer. 👨🏻‍💻
+Full stack web developer. 👨🏻‍💻
 
 Currently based in Mexico City, open to job opportunities and collaborations!
 

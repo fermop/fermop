@@ -59,8 +59,7 @@ Currently, I am working on a full-stack **ERP & POS system** for a local busines
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=fermop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Fernando's Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
+    <img src="github-metrics.svg" alt="Fernando's Generated Stats" width="100%" />
   </p>
 </div>
 

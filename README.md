@@ -2,7 +2,7 @@
   
   # Hi there, I'm Fernando Pérez Mojica! 👋
   
-  <h3>Computer Systems Engineering Student | Full Stack Developer</h3>
+  <h3>Computer Systems Engineer | Full Stack Web Developer</h3>
 
   <p>
     Building scalable web applications and ERP solutions with modern technologies.
@@ -11,7 +11,7 @@
   </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+with+Next.js+%26+TypeScript;Developing+ERP+%26+E-commerce+Solutions;Always+learning+new+tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+with+Next.js+%26+TypeScript;Always+learning+new+tech" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -33,11 +33,8 @@
 
 ### 👨🏻‍💻 About Me
 
-I am a **Computer Systems Engineering student** passionate about clean code and software architecture. My focus is on developing efficient web solutions that solve real-world business problems. 
+I am a **Computer Systems Engineer** passionate about clean code and software architecture. My focus is on developing efficient web solutions that solve real-world business problems. 
 
-Currently, I am working on a full-stack **ERP & POS system** for a local business (*Yogurt Artesanal DUX*), handling everything from database architecture in **Firebase** to the UI in **Next.js**.
-
-- 🔭 **Currently working on:** E-commerce & Management Systems.
 - 🌱 **Deepening my knowledge in:** `TypeScript`, `Next.js 16+`, and `Clean Architecture`.
 - ⚡ **Fun fact:** I love optimizing developer workflows and using tools like **Conventional Commits**.
 
